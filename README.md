@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Shlok Patel! 👋
 
-<!--
-**Shlok081205/Shlok081205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a CS student at LJ University, focusing on **Backend Logic** and **Machine Learning**.
+- 🔭 I’m currently working on a **Stock Market Predictor** using Python & Flask.
+- 💡 Key Achievement: Implemented **Linear Regression** in pure Java without ML libraries.
+- 📚 I’m currently learning **Full Stack Development** and **Hypothesis Testing**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shlok081205&show_icons=true&theme=radical)
