@@ -11,6 +11,3 @@ I'm a CS student at LJ University, focusing on **Backend Logic** and **Machine L
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### 📈 GitHub Stats
-![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shlok081205&show_icons=true&theme=radical)
