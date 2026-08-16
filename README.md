@@ -17,7 +17,7 @@
 ### 🤗 Fine-tuned LLM — Published on HuggingFace
 I fine-tuned **Qwen2.5-7B-Instruct** on 22,000 recipes from the Recipe1M+ dataset (MIT CSAIL) using **QLoRA** (LoRA rank 16, 4-bit quantized base) via Unsloth Studio. Exported to **GGUF Q4_K_M (~4.68 GB)** for local inference in LM Studio and Ollama.
 
-**[🤗 Shlok0011/CulinaAI-Qwen2.5-7B-GGUF](https://huggingface.co/Shlok0011/CulinaAI-Qwen2.5-7B-GGUF)** — 283+ downloads
+**[🤗 Shlok0011/CulinaAI-Qwen2.5-7B-GGUF](https://huggingface.co/Shlok0011/CulinaAI-Qwen2.5-7B-GGUF)** — 1000+ downloads
 
 | Hyperparameter | Value |
 |---|---|
